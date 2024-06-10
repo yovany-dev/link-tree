@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  background-color: #f5f6f8;
+}
+
+.main-container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+}
+
+.btn {
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  background-color: rgb(13, 110, 184);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 3px;
+  margin: 10px 0;
+  min-width: 200px;
+}
+
+input[type="text"].input {
+  border: solid 1px #ccc;
+  border-radius: 3px;
+  padding: 8px 10px;
+}
+
+label {
+  padding-top: 5px;
+}
+
+a {
+  color: rgb(13, 110, 184);
+  font-weight: bold;
+  text-decoration: none;
+}
