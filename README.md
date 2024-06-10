@@ -1,8 +1,22 @@
-# React + Vite
+# Linktree
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Es una demo de la aplicación popular `Linktree` que permite agrupar tus enlaces de tus diferentes redes sociales en una sola página. Esta aplicación fue desarrollado en el **CURSO COMPLETO DE FIREBASE CON REACT** de [Marcos Rivas.](https://www.youtube.com/@vidamrr) El objetivo de este es aprender las bases de `Firebase`.
 
-Currently, two official plugins are available:
+### `React` `Firebase` `JavaScript`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Características 💡
+- Autenticación con Google 
+- Base de datos (NoSql)
+- Almacenamiento
+
+## Instalación 💻
+```
+git clone https://github.com/yovany-dev/linktree.git
+npm install
+npm run dev
+```
+
+## Enlaces 📌
+- [Curso](https://www.youtube.com/watch?v=uc3fFVSHNBs&t=5313s)
+- [Portafolio](https://yovany-dev.github.io/)
+- [Contacto](mailto:yovanymorales.contact@gmail.com)
